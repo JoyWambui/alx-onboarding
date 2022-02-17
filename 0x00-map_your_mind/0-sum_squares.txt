@@ -1,6 +1,5 @@
-Assign first input to variable inputA
-Assign second input to variable inputB
-Create variable sum
-Square inputA
-Square inputB
-Add squared inputA and squared InputB
+get range of inputs
+set initial total to 0
+For each input in the range of inputs
+    set total to total + (square of input)
+print total
