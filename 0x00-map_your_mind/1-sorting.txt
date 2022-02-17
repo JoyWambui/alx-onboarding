@@ -1,0 +1,16 @@
+Assign first input to variable inputA
+Assign second input to variable inputB
+Assign third input to variable inputC
+Compare InputA and InputB
+Check if InputB is greater than InputA
+	Swap InputA with InputB if greater
+		Compare InputA and InputC
+		Check if InputC is greater than InputA
+			Swap InputA with InputC if greater
+		Leave InputA and InputC as is if not greater
+Leave InputA and InputB as is if not greater
+		Compare InputB and InputC
+		Check if InputC is greater than InputB
+			Swap InputB with InputC if greater
+		Leave InputB and InputC as is if not greater
+		
