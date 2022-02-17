@@ -1,0 +1,6 @@
+set initial total to 0
+get input
+while input > 0
+  set total to total + input
+else
+  print our total
