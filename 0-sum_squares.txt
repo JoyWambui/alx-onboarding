@@ -1,0 +1,6 @@
+Assign first input to variable inputA
+Assign second input to variable inputB
+Create variable sum
+Square inputA
+Square inputB
+Add squared inputA and squared InputB
